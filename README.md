@@ -1,4 +1,4 @@
-# Cellular-Automatons
+# Cellular Automatons
 
 | | |
 |:-------------------------:|:-------------------------:|
